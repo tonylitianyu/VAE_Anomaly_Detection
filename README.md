@@ -6,6 +6,16 @@ The original dataset is from the Freiburg Forest Dataset. In the link below is t
 
 https://1drv.ms/u/s!Ahbetuf7cZNm0x-2y3xN8IRb2tR8?e=61R9hX
 
+### Example 
+
+Input:  
+![](input_navigation70.png) 
+
+Output:  
+![](reconstruction_navigation70.png)
+
+The human with the bike has not presented in the dataset, so it is removed which creates big difference in the input and output. It indicates that the anomaly is detected.
+
 
 ### Prerequisite Installed
 
@@ -26,17 +36,6 @@ https://1drv.ms/u/s!Ahbetuf7cZNm0x-2y3xN8IRb2tR8?e=61R9hX
 5. Run main2.py to start training
 
 6. Run compare.py to see the result of detecting anomalies (human beings).
-
-
-### Example
-
-Input:  
-![](input_navigation70.png) 
-
-Output:  
-![](reconstruction_navigation70.png)
-
-The human with the bike has not presented in the dataset, so it is removed which creates big difference in the input and output. It indicates that the anomaly is detected.
 
 
 ### Reference
