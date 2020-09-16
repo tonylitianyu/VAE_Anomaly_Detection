@@ -30,6 +30,10 @@ https://1drv.ms/u/s!Ahbetuf7cZNm0x-2y3xN8IRb2tR8?e=61R9hX
 
 ### Example
 
-Inline-style:
-![](input_navigation70.png) ![](reconstruction_navigation70.png)
+Input:
+![](input_navigation70.png) 
 
+Output:
+![](reconstruction_navigation70.png)
+
+The human with the bike has not presented in the dataset, so it is removed which creates big difference in the input and output. It indicates that the anomaly is detected.
