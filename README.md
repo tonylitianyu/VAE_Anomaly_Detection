@@ -14,7 +14,7 @@ Input:
 Output:  
 ![](reconstruction_navigation70.png)
 
-The human with the bike has not presented in the dataset, so it is removed which creates big difference in the input and output. It indicates that the anomaly is detected.
+The human with the bike has not presented in the dataset, so it is removed which creates big difference in the input and output. The big difference indicates that the anomaly is detected.
 
 
 ### Prerequisite Installed
