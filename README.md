@@ -23,10 +23,13 @@ https://1drv.ms/u/s!Ahbetuf7cZNm0x-2y3xN8IRb2tR8?e=61R9hX
 
 4. Create a folder for collecting result, assign the path of the folder to **result_folder** variable
 
-5. Create a folder **model** for collecting saved models
+5. Run main2.py to start training
 
-6. Run main2.py to start training
+6. Run compare.py to see the result of detecting anomalies (human beings).
 
-7. Run compare.py to see the result of detecting anomalies (human beings).
 
+### Example
+
+Inline-style:
+![](input_navigation70.png) ![](reconstruction_navigation70.png)
 
