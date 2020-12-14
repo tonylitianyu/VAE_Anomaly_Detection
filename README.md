@@ -41,3 +41,12 @@ The human with the bike has not presented in the dataset, so it is removed which
 ### Reference
 
 Lifelong Navigation. Deepscene Classification. Retrieved from http://lifenav.informatik.uni-freiburg.de/datasets.html
+
+```
+@InProceedings{valada16iser,
+author = {Abhinav Valada and Gabriel Oliveira and Thomas Brox and Wolfram Burgard},
+title = {Deep Multispectral Semantic Scene Understanding of Forested Environments using Multimodal Fusion},
+booktitle = {International Symposium on Experimental Robotics (ISER)},
+year = {2016},
+}
+```
